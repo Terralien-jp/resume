@@ -13,38 +13,31 @@
 |Hatena|https://terralien.hatenablog.com/|
 |Blog|https://nekodakusan.com/|
 |LAPRAS|https://lapras.com/public/terralien|
+
 ---
 
-## 保有スキル
+## Skill
 - AWSCLF
 - AWSSAA
 - AWSSAP
+
 ---
 
 ## 技術スタック
 - Linux
 - Windows
 
-### アウトプット
-- Markdown
-
-### 言語・フレームワーク
+### Lang/Framework
+- Markdown(Output)
 - Python
-    - FastAPI
-    - Flask
+    - FastAPI/Flask
 - JavaScript
-    - React
-    - Typescript
+    - React/Typescript
 
-### インフラ
+### Infra
 - Docker
 - AWS
-    - EC2
-    - S3
-    - ELB
-    - RDS
-    - Cloud Formation
-    - ECS
+    - EC2/S3/ELB/RDS/Cloud Formation/ECS
 
 ### DB
 - MySQL
