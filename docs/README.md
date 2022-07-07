@@ -10,44 +10,52 @@
 |Qiita|https://qiita.com/Terralien|
 |note|https://note.com/terralien|
 |Zenn|https://zenn.dev/terralien|
-
+|Hatena|https://terralien.hatenablog.com/|
+|Blog|https://nekodakusan.com/|
+|LAPRAS|https://lapras.com/public/terralien|
 ---
 
 ## 保有スキル
-AWSCLF
-AWSSAA
-AWSSAP
-- 
-
-
+- AWSCLF
+- AWSSAA
+- AWSSAP
 ---
 
 ## 技術スタック
+- Linux
+- Windows
+
 ### アウトプット
-Markdown
+- Markdown
 
 ### 言語・フレームワーク
-Python/FastAPI/Flask
-React/Typescript
+- Python
+    - FastAPI
+    - Flask
+- JavaScript
+    - React
+    - Typescript
 
 ### インフラ
-Docker
-AWS/EC2/S3/ELB/RDS/Cloud Formation/ECS
+- Docker
+- AWS
+    - EC2
+    - S3
+    - ELB
+    - RDS
+    - Cloud Formation
+    - ECS
+
+### DB
+- MySQL
 
 ### 連絡ツール
-Slack/Discode
+- Slack
+- Discode
 
 ### プロジェクト管理等
-Notion
-Git/GitHub/GitHub
-
-### 言語
-
-- 
-
-### フレームワーク・その他
-
-- 
+- Notion
+- Git/GitHub
 
 ---
 
@@ -62,5 +70,4 @@ Git/GitHub/GitHub
 - 
 
 ## 業務外活動
-AWSSAA書籍執筆に参加（10P弱担当）
-- 
+- 2022/06 AWSSAA書籍執筆活動に参加
