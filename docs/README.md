@@ -17,22 +17,29 @@
 ---
 
 ## Skill
-- AWSCLF
-- AWSSAA
-- AWSSAP
+- [AWSCLF](https://www.credly.com/badges/85076684-22f6-40cd-b6c1-412cc61d5457/public_url)
+- [AWSSAA](https://www.credly.com/badges/5b5e76fb-b35a-479f-b2d8-ec60cb3d8db7/public_url)
+- [AWSSAP](https://www.credly.com/badges/5d01d8fe-6263-4598-acde-bae9ab5c5d0d/public_url)
 
 ---
 
 ## 技術スタック
-- Linux
-- Windows
-
 ### Languages/Framework
 - Markdown(Output)
 - Python
     - FastAPI/Flask
 - JavaScript
     - React/Typescript
+
+### OS/Middleware
+- Linux
+    - Ubuntu
+    - Debian
+    - CentOS
+- Windows
+
+- Apache
+- Nginx
 
 ### Infra
 - Docker
@@ -88,7 +95,7 @@
 [習得スキル]Flask、GitHub、AWSへのデプロイ、Doccker環境での開発
 
 [成果・実績]GitHubのプロジェクト機能により全体の進行を管理
-設計等資料はNotion、重要な連絡はSlack、ハンズオン等にDiscodeも活用した
+設計等資料はNotion、重要な連絡はSlack、ハンズオン等にDiscodeも活用しました
 
 案件名：バックリンクコンテンツ作成（2022年4月 – 2022年6月）
 所属：受託
@@ -120,7 +127,7 @@
 
 [習得スキル]FastAPI、React、GitHub、Doccker操作
 
-[成果・実績]問題なくデプロイできた
+[成果・実績]特に問題なくデプロイできました
 
 
 案件名：WordPressのAWS移転（2022年2月 – 2022年3月）
@@ -137,7 +144,7 @@
 
 [習得スキル]RDS、ALB設計・構築
 
-[成果・実績]コスト面に注意した
+[成果・実績]コスト面に注意し削減できました
 
 案件名：AWSでの会社HP作成（2022年1月 – 2022年2月）
 所属：受託
@@ -153,7 +160,7 @@
 
 [習得スキル]AWS、独自ドメインの設定
 
-[成果・実績]要望通りコスト削減できた
+[成果・実績]要望通り分散していたサービスの集約とコスト削減ができました
 
 ## 業務外活動
 - AWSSAA書籍執筆活動に参加(2022年6月 – 現在)
